@@ -26,7 +26,7 @@ View our Architecture
 
 Navigate to VPC and select "Create VPC"
 
-Give VPC a name tag
+Give VPC a name tag: <br/> 
 <img src="https://i.imgur.com/A3KD4lI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
