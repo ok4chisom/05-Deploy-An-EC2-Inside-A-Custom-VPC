@@ -111,19 +111,15 @@ For security group allow HTTP/HTTPS access from the public internet. Similar to 
 <br />
 
 Under Advanced details, paste this under "User Data"
-"#!/bin/bash
-yum update -y
-yum install httpd -y
-echo "<html><h1>webpage 1(whatever you want, give the page name here)</h1></html>" > /var/www/html/index.html
-service httpd start
-chkconfig httpd on"
 - Feel free to edit the user data
-
+<img src="https://i.imgur.com/v2C7Wlm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 Now select “Launch Instance”.
 
 
-Once the instance state is "Running", copy and paste the Public IP address to a web browser and you should see your website launch.
+Once the instance state is "Running", copy and paste the Public IP address to a web browser and you should see your website launch <br/>
 <img src="https://i.imgur.com/7td9JlW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
