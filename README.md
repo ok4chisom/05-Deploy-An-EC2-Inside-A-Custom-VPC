@@ -22,7 +22,6 @@ A new startup business in North America has recruited you to help with the launc
 
 <p align="center">
 
-View our Architecture
 
 Navigate to VPC and select "Create VPC"
 
